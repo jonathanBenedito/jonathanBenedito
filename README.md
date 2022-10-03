@@ -1,4 +1,4 @@
-# Olá, me chamo Jonathan William Benedito!
+# Olá, sou Jonathan!
 
 ## Bem vindo ao meu perfil GitHub 👋
 - 👩‍🏫 Formado em Analise e Desenvolvimento de Sistemas - Unicesumar Sumaré / SP
