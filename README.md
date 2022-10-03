@@ -8,6 +8,9 @@
 - C#
 - React
 - Asp.Net
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats&theme=github_dark&layout=compact)](https://github.com/jonathanBenedito)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanBenedito&theme=github_dark&layout=compact)](https://github.com/jonathanBenedito)
+##
+<div>
+  <a href="https://github.com/camilafernanda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanBenedito&layout=compact&langs_count=7&github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanBenedito&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
