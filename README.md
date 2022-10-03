@@ -6,6 +6,10 @@
 
 ### Ferramentas e Tecnologias
 ![alt text](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png "Logo Title Text 1")
+![alt text](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png "Logo Title Text 1")
+![alt text](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png "Logo Title Text 1")
+![alt text](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png "Logo Title Text 1")
+![alt text](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png "Logo Title Text 1")
 
 
   
