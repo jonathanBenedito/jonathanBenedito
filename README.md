@@ -10,5 +10,4 @@
 - Asp.Net
 
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/camilafernanda)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanBenedito&theme=github_dark&layout=compact)](https://github.com/jonathanBenedito)
