@@ -7,7 +7,9 @@
 ### Ferramentas e Tecnologias
 - C#
 - React
-- Asp.Net
+- SASS
+- Javascript
+- CSS
 ---
 
 <div>
