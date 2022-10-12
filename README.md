@@ -1,7 +1,7 @@
 # Olá, sou Jonathan!
 
 ## Bem vindo ao meu perfil GitHub 👋
-- 👩‍🏫 Formado em Analise e Desenvolvimento de Sistemas - Unicesumar Sumaré / SP
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas - Unicesumar Sumaré / SP
 
 ### Ferramentas e Tecnologias
 - C#
