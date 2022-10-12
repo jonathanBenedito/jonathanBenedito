@@ -4,7 +4,6 @@
 - 🎓 Formado em Analise e Desenvolvimento de Sistemas - Unicesumar Sumaré / SP
 
 ### Ferramentas e Tecnologias
-- C#
 - React
 - SASS
 - Javascript
