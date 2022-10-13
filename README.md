@@ -15,10 +15,10 @@
 </div>
 <br/>
 
-<div style={{display: 'flex', justifyContent: 'space-between'}}>
+<div style={{display: 'flex'}}>
   <a href="https://github.com/jonathanBenedito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanBenedito&layout=compact&theme=github_dark"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=jonathanBenedito&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" style={{paddingLeft: '10px'}} src="https://github-readme-stats.vercel.app/api?username=jonathanBenedito&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ---
