@@ -1,4 +1,4 @@
-![MasterHead]((https://i.imgur.com/hwZtUKM.gif)
+![MasterHead](https://i.imgur.com/hwZtUKM.gif)
 
 # Olá, sou Jonathan!
 
