@@ -1,4 +1,4 @@
-![MasterHead]([https://hugelolcdn.com/hugegifs.com/i/14534.gif])
+![MasterHead](https://hugelolcdn.com/hugegifs.com/i/14534.gif)
 
 # Olá, sou Jonathan!
 
