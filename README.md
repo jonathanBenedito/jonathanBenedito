@@ -23,7 +23,7 @@
 </div>
   
 ---
-  ## 📞 Entre em contato
+  ## 📞 Meus contatos
  
 <div> 
   <a href = "mailto:jonathan.valbe.jb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
