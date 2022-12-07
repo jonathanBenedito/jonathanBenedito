@@ -1,11 +1,11 @@
 ![MasterHead](https://i.imgur.com/hwZtUKM.gif)
 
-# Olá, sou Jonathan!
+# 🙂 Saudações! Me chamo Jonathan!
 
-## Bem vindo ao meu perfil GitHub 👋
-- 🎓 Formado em Analise e Desenvolvimento de Sistemas - Unicesumar Sumaré / SP
+- 🎨 Um humilde cidadão desenvolvedor Front-End.
+- ❤ Apaixonado por jogos, animes e mangás.
 
-### Ferramentas e Tecnologias
+### 🧪 Minhas tecnologias e ferramentas preferidas
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
