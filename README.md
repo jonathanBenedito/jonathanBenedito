@@ -4,7 +4,7 @@
 🎨 Um humilde cidadão desenvolvedor Front-End. <br/>
 ❤ Apaixonado por jogos, animes e mangás.<br/>
 
-### Minhas tecnologias e ferramentas preferidas
+#### Minhas tecnologias e ferramentas preferidas
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
