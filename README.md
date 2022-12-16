@@ -27,7 +27,7 @@
   
 ---
 <div> 
-  <a href = "mailto:jonathan.valbe.jb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:jonathan_valbe@yahoo.com.br"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathanbenedito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://api.whatsapp.com/send?phone=5519974076899&text=Ol%C3%A1%2C%20venha%20tomar%20uma%20x%C3%ADcara%20de%20caf%C3%A9%20e%20conversar%20juntos! target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
