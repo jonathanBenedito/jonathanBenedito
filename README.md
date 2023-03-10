@@ -4,15 +4,22 @@
 🎨 Um humilde cidadão desenvolvedor Front-End. <br/>
 ❤ Apaixonado por jogos, animes e mangás.<br/>
 
-#### As tecnologias que eu trabalho
+#### Minhas principais linguagens
 <div style="display: inline_block">
-  <img align="center" alt="ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+
+
+#### As tecnologias que eu trabalho
+<div style="display: inline_block">
+  <img align="center" alt="ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="styled-components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="React Testing Library" height="30" width="40" src="https://miro.medium.com/max/496/0*RfTXIdj0OMqSiDwC">
-  <img align="center" alt="styled-components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
 </div>
 
 #### Minhas ferramentas preferidas
