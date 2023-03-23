@@ -1,7 +1,7 @@
 ![MasterHead](https://i.imgur.com/hwZtUKM.gif)
 
 ### Saudações! Me chamo [Jonathan](https://github.com/jonathanBenedito)! 🙂
-🎨 Um humilde cidadão desenvolvedor Full Stack. <br/>
+🎨 Um humilde cidadão desenvolvedor Front-end. <br/>
 ❤ Apaixonado por jogos, animes e mangás.<br/>
 
 #### Minhas principais linguagens
